@@ -41,7 +41,7 @@
 
 <br>
 
-<!--- ### 🏰 [`Ejercicio: Web Personal`](./src/ejercicio/ejercicio-web-personal.md) -->
+### 🏰 [`Ejercicio: Web Personal`](./src/ejercicio/ejercicio-web-personal.md)
 
 <!-- ### <img src='./src/assets/html5.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`JavaScript Basics`]() -->
 
