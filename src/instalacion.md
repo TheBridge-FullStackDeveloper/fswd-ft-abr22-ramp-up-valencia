@@ -28,11 +28,6 @@ Extensiones
 
 <br>
 
-
-### 🔗 [Oh My zsh!](https://ohmyz.sh/)
-_(Opcional para Windows, **fuertemente recomendado** para Mac y Linux)_
-
-<br>
 <br>
 
 ### 🔙 [ÍNDICE](../readme.md)

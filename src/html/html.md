@@ -36,7 +36,7 @@
 
 
 
-### Enlaces, tablas y etiquetas multimedia
+<!-- ### Enlaces, tablas y etiquetas multimedia
 
 :scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
 
@@ -56,7 +56,7 @@
 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-<br>
+<br> -->
 
 ### 🔙 [ÍNDICE](../../readme.md)
 
