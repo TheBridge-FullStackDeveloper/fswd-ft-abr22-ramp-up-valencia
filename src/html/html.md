@@ -36,19 +36,14 @@
 
 
 
-<!-- ### Enlaces, tablas y etiquetas multimedia
-
-:scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
+### Enlaces, tablas y etiquetas multimedia
 
 :scroll: - [Enlaces, tablas y etiquetas multimedia](referencias_tablas_multimedia.md)
 
 
 :crossed_swords: -  [Página web de un gimnasio](https://github.com/TheBridge-FullStackDeveloper/html-pp-gimnasio)
 
-:shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
-
-
-
+<!-- :shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template) -->
 
 ### Formularios y etiquetas semánticas
 
@@ -56,7 +51,7 @@
 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-<br> -->
+<br>
 
 ### 🔙 [ÍNDICE](../../readme.md)
 

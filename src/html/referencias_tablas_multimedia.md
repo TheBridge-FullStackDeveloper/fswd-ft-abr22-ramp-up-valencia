@@ -8,7 +8,9 @@
 
 ### Tablas ###
 
-[Tablas](https://www.w3schools.com/html/html_tables.asp )
+[Tablas](https://www.w3schools.com/html/html_tables.asp)
+
+[Tablas II](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
 
 ### Multimedia ###
 
