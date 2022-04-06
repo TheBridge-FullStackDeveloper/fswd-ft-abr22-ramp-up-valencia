@@ -40,22 +40,11 @@
 ### Modelo de cajas, position y variables CSS
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
-
-<!--- :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
-
-### Display
+<!-- ### Display
 
 :scroll: - [Display](display.md)
 
-:scroll: - [FlexBox Generator](https://the-echoplex.net/flexyboxes/)
-
-
 :crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
-
-:crossed_swords: - [Flexbox Defense](http://www.flexboxdefense.com/)
-
-:shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
-
 
 ### Mobile first y @media queries
 
@@ -63,17 +52,11 @@
 
 :crossed_swords: - [Crear una página completamente "responsive" y mobile first](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
 
-:shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos)
+### Estructura de carpetas
 
-
-<br>
-
-### Recursos extra
-
-🛡️ - [CSS Battle](https://cssbattle.dev/)
-
-<br>
+:scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
+<br> -->
 
 ### 🔙 [ÍNDICE](../../readme.md)
 
-<!-- :scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md) -->
+
