@@ -18,6 +18,8 @@
 
 ## Precurso - CSS
 
+[Introducción CSS](https://docs.google.com/presentation/d/13_SXiTUtddnyov4tCnXnQLi9ZSxJSjPMzXlEt3Azf2k/edit#slide=id.g122f19383d1_0_525)
+
 ### Selectores y propiedades de texto
 
 :scroll: - [Selectores y propiedades de texto](selectores_propiedades_texto.md)
@@ -39,7 +41,7 @@
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
-:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
+<!--- :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
 
 ### Display
 
