@@ -41,7 +41,7 @@
 
 <br>
 
-<!-- ### 🏰 [`Ejercicio: Web Personal`](./src/ejercicio/ejercicio-web-personal.md) -->
+### 🏰 [`Ejercicio: Web Personal`](./src/ejercicio/ejercicio-web-personal.md)
 
 
 
