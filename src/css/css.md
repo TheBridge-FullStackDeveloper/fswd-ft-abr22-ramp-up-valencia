@@ -39,7 +39,7 @@
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
-:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
+<!--- :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
 
 ### Display
 
