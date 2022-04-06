@@ -29,7 +29,7 @@
 
 <br>
 
-### <img src='./src/assets/index/css3.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`CSS3`](./src/css/css.md)
+<!--- ### <img src='./src/assets/index/css3.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`CSS3`](./src/css/css.md)
 
 <br>
 
