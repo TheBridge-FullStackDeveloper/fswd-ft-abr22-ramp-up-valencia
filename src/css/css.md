@@ -18,6 +18,8 @@
 
 ## Precurso - CSS
 
+[Introducción CSS](https://docs.google.com/presentation/d/13_SXiTUtddnyov4tCnXnQLi9ZSxJSjPMzXlEt3Azf2k/edit#slide=id.g122f19383d1_0_525)
+
 ### Selectores y propiedades de texto
 
 :scroll: - [Selectores y propiedades de texto](selectores_propiedades_texto.md)
