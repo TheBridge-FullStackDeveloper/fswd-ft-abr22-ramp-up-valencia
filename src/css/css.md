@@ -40,7 +40,8 @@
 ### Modelo de cajas, position y variables CSS
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
-<!-- ### Display
+
+### Display
 
 :scroll: - [Display](display.md)
 
@@ -55,7 +56,7 @@
 ### Estructura de carpetas
 
 :scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
-<br> -->
+<br>
 
 ### 🔙 [ÍNDICE](../../readme.md)
 
