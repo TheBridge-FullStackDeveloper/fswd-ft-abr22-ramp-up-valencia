@@ -58,6 +58,10 @@
 :scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
 <br>
 
+### GIT
+
+:scroll: - [Git paso a paso](https://docs.google.com/presentation/d/1t7dSrojJbYD6ffcVsomDtQog6JTC1nSM/edit#slide=id.p1)
+
 ### 🔙 [ÍNDICE](../../readme.md)
 
 
