@@ -22,6 +22,10 @@
 
 :scroll: [Ejercicios](https://docs.google.com/document/d/1-wDgvepgO2Eqk8J5MFyYnIS8iadIT7STb1p25rITKE4/edit?usp=sharing)
 
+:scroll: [Clase 2 JS ](https://docs.google.com/presentation/d/1LxQBYt7ztUeA62m3N4j6MGwKCLkhlOMI/edit?usp=sharing&ouid=110594338309918268653&rtpof=true&sd=true) 
+
+:scroll: [Ejercicios](https://docs.google.com/document/d/1DlzEayEHQjJBl38miM0WVPnub6wGRQLN-seawRxn-AA/edit?usp=sharing)
+
 <br>
 
 ---
